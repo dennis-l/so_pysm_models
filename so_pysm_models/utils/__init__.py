@@ -15,10 +15,12 @@ PREDEFINED_DATA_FOLDERS = {
     "C": [
         "/global/project/projectdirs/cmb/www/so_pysm_models_data/equatorial",  # NERSC
         "/mnt/sdceph/users/zonca/simonsobs/so_pysm_models_data/equatorial",  # SDSC
+        "/projects/b1094/dlee/cmb/so_pysm_models_data/equatorial", # QUEST
     ],
     "G": [
         "/global/project/projectdirs/cmb/www/so_pysm_models_data/",  # NERSC
         "/mnt/sdceph/users/zonca/simonsobs/so_pysm_models_data/",  # SDSC
+        "/projects/b1094/dlee/cmb/so_pysm_models_data/", # QUEST
     ],
 }
 
